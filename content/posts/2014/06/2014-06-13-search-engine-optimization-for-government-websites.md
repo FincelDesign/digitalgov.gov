@@ -40,3 +40,4 @@ I presented on SEO for government websites and specifically talked about:
   * [Google&#8217;s SEO Starter Guide](http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf) & [How Search Works](http://www.google.com/insidesearch/howsearchworks/thestory/index.html)
   * [Moz&#8217;s The Beginner&#8217;s Guide to SEO](http://moz.com/beginners-guide-to-seo)
   * [Search Engine Land&#8217;s Guide to SEO](http://searchengineland.com/guide/seo)
+  * [Website Content Mistakes that Can Hurt Your SEO](https://finceldesign.com/news/website-content-mistakes-that-can-hurt-your-seo/)
